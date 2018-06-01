@@ -20,6 +20,8 @@ a=200
 str = "update from remote remote rep"
 
 str1 = "Update from local"
+
+str2 = "Update from local"
 '*********************************************
 'Prerequisites
 '*********************************************
